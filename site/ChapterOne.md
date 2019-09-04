@@ -1,6 +1,6 @@
 title: 恩施市中等职业技术学校
 speaker: uanliy
-url: 
+url: https://github.com/YL9/Teaching-materials
 js:
     - https://www.echartsjs.com/asset/theme/infographic.js
 plugins:
@@ -14,7 +14,7 @@ plugins:
 
 中等职业技术学校学生必修的一门公共基础课程 {.text-intro.animated.fadeInUp.delay-500}
 
-[:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost.animated.flipInX.delay-1200}
+[:fa-github: Github](https://github.com/YL9/Teaching-materials){.button.ghost.animated.flipInX.delay-1200}
 
 <slide :class="size-30 aligncenter">
 
