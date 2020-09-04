@@ -45,7 +45,7 @@
         "import-global": "^0.1.0",
         "lodash.defaultsdeep": "^4.6.0",
         "mini-css-extract-plugin": "0.7.0",
-        "node-sass": "4.12.0",
+        "node-sass": "4.14.1",
         "nodeppt-js": "^2.1.2",
         "nodeppt-parser": "^2.1.2",
         "nodeppt-shared-utils": "^2.0.2",
